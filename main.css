@@ -1,7 +1,10 @@
 body {
-  /*background-color: #FFF44F;*/
-  background-color: lime;
+  background-color: #FFF44F;
   display: flex;
+  flex-direction:column;
   align-items: center;
   justify-content: center;
+  font-family:Helvetica;
+  font-weight:400;
+  color:white;
 }
