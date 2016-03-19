@@ -1,0 +1,7 @@
+body {
+  /*background-color: #FFF44F;*/
+  background-color: lime;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
